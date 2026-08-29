@@ -6,7 +6,7 @@ Proyek ini berisi *dashboard* analitik interaktif yang dibangun sepenuhnya mengg
 **🛠️ Tools & Technologies:**
 * **Visualisasi & Reporting:** Microsoft Excel (Pivot Tables & Pivot Charts)
 * **Data Processing:** Data Cleaning, Aggregation, & Filtering
-* **Data Source:** `Data Supermarket-Latihan.xlsx`
+* **Data Source:** `Sales Data and Dashboard.xlsx`
 
 ---
 
