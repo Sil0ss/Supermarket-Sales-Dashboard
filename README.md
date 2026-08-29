@@ -11,7 +11,7 @@ Proyek ini berisi *dashboard* analitik interaktif yang dibangun sepenuhnya mengg
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](Dashboard Preview.jpg )
+![Dashboard Preview](Dashboard_Preview.jpg )
 
 ---
 
